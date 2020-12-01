@@ -3,5 +3,6 @@
   "python.linting.flake8Args": ["--config=.flake8"],
   "editor.codeActionsOnSave": {
     "source.organizeImports": true
-  },
+},
+"python.pythonPath": ".env/bin/python",
 }
